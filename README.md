@@ -1,9 +1,9 @@
 # Maximum-Rotation
 
-Game Maximum Rotation
-Developed in C Language
+Game Maximum Rotation.
+Developed in C Language.
 
-Instructions Game
+Instructions Game:
 Order the numbers from largest to smallest, moving them on the board to achieve this.
 
 Up arrow, Down arrow, 2 and 8 = move the small frame where the numbers up and down appear;
