@@ -1,6 +1,5 @@
 # Maximum-Rotation
 
-Maximum Rotation.
 Game based on the game from the site Jogos360.
 https://www.jogos360.com.br/maximum_rotation.html
 Version developed in C Language.
